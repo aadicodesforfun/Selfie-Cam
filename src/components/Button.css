@@ -1,0 +1,14 @@
+button{
+    height: 40px;
+    width: 40px;
+    background: rgba(0, 0, 0, 0.35);
+    border-radius: 999px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+img{
+    height:25px;
+}
